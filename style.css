@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    background-color: white;
+}
+#news{
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.img1{
+    height: 113px;
+    width: 350px;
+    background-color: rgb(167, 174, 166);
+    margin: auto;
+
+}
+.box1{
+    background-color: rgba(209, 212, 214, 0.853);
+    width: 1480px;
+    height: 75px;
+    margin: auto;
+   
+}
+.container{
+    width: 1484px;
+    height: 75px;
+    margin: auto;
+    font-size: small;
+}
+
+
+.container .box2{
+    background-color: rgb(195, 245, 245);
+    width: 534px;
+    height: 67px;
+    text-align: center;  
+    margin-left: 2px;
+    float: left;
+    margin-top: 2px;
+}
+.container .box3{
+    background-color: rgb(111, 225, 225);
+    width: 412px;
+    height: 67px;
+    text-align: center;  
+    margin-left: 2px;
+    float: left;
+    font-size: small;
+    margin-top: 2px;
+}
+.container .box4{
+    background-color: aqua;
+    width: 530px;
+    height: 67px;
+    text-align: center;  
+    margin-left: 2px;
+    float: left;
+    margin-top: 2px;
+}
+
+.search1 {
+    height: 16px;
+    width: 280px;
+    display: block; 
+    margin: auto;
+    margin-bottom: 2px;
+}
+.btn1 {margin-left:42.5%;}
+
+.inc{text-align: center; font-size: small;}
